@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-""" Created on Thu Mar 19 17:55:59 2020 @author: BHUSHAN """
 #------------------Webscraping data from amazon website------------------
 import os
 os.chdir('Your path')
